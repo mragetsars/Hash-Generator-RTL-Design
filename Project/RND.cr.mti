@@ -1,0 +1,36 @@
+C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/controller.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_controller
+
+Top level modules:
+	RND_controller
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/top_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_top_module
+
+Top level modules:
+	RND_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/tb_top_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/tb_top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_tb_top_module
+
+Top level modules:
+	RND_tb_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/xor.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/xor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_xor
+
+Top level modules:
+	RND_xor
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/shift_register.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/shift_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_shift_register
+
+Top level modules:
+	RND_shift_register
+
+} {} {}}

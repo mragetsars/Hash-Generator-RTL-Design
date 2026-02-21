@@ -1,0 +1,163 @@
+# Compile of modules.v was successful.
+# Compile of RND_controller.v was successful.
+# Compile of RND_counter.v was successful.
+# Compile of RND_datapath.v failed with 1 errors.
+# Compile of RND_shift_register.v was successful.
+# Compile of RND_tb_top_module.v was successful.
+# Compile of RND_top_module.v was successful.
+# Compile of RND_xor.v was successful.
+# 8 compiles, 1 failed with 1 error.
+# Compile of modules.v was successful.
+# Compile of RND_controller.v was successful.
+# Compile of RND_counter.v was successful.
+# Compile of RND_datapath.v failed with 1 errors.
+# Compile of RND_shift_register.v was successful.
+# Compile of RND_tb_top_module.v was successful.
+# Compile of RND_top_module.v was successful.
+# Compile of RND_xor.v was successful.
+# 8 compiles, 1 failed with 1 error.
+# Compile of modules.v was successful.
+# Compile of RND_controller.v was successful.
+# Compile of RND_counter.v was successful.
+# Compile of RND_datapath.v failed with 9 errors.
+# Compile of RND_shift_register.v was successful.
+# Compile of RND_tb_top_module.v was successful.
+# Compile of RND_top_module.v was successful.
+# Compile of RND_xor.v was successful.
+# 8 compiles, 1 failed with 9 errors.
+# Compile of modules.v was successful.
+# Compile of RND_controller.v was successful.
+# Compile of RND_counter.v was successful.
+# Compile of RND_datapath.v was successful.
+# Compile of RND_shift_register.v was successful.
+# Compile of RND_tb_top_module.v was successful.
+# Compile of RND_top_module.v was successful.
+# Compile of RND_xor.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.RND_tb_top_module
+# vsim -gui work.RND_tb_top_module 
+# Start time: 20:00:18 on Nov 28,2025
+# Loading work.RND_tb_top_module
+# Loading work.RND_top_module
+# Loading work.RND_controller
+# Loading work.RND_datapath
+# Loading work.RND_xor
+# Loading work.c1
+# Loading work.RND_shift_register
+# Loading work.s2
+# Loading work.FDCP
+# Loading work.RND_counter
+# Loading work.c2
+add wave -position insertpoint sim:/RND_tb_top_module/*
+run -all
+# (vsim-50) A call to system(c1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 'c1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# (vsim-50) A call to system(c1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 'c1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(c1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 'c1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(c1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 'c1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(c1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 'c1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(c1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 'c1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(s2-s1.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 's2-s1.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# (vsim-50) A call to system(c2.exe) returned error code '1'.
+# The logfile contains the following messages:
+# 'c2.exe' is not recognized as an internal or external command,
+# operable program or batch file.
+# 
+# Result too large. (errno = ERANGE)
+# ** Note: $finish    : C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Project/RND_tb_top_module.v(41)
+#    Time: 145 ns  Iteration: 0  Instance: /RND_tb_top_module
+# End time: 20:00:28 on Nov 28,2025, Elapsed time: 0:00:10
+# Errors: 0, Warnings: 0

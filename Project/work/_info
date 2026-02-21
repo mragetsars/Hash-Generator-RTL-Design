@@ -1,0 +1,179 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mrage/Programs/Codes/Verilog/Fateme/Project
+vRND_controller
+Z0 !s110 1764253015
+!i10b 1
+!s100 [3:n@5YYMLzQMl_[<T0lW3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXU;;X_7L;bSfG3D<ULK4]1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj
+w1764248306
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/controller.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/controller.v
+!i122 58
+L0 1 58
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1764253015.000000
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/controller.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@r@n@d_controller
+vRND_counter
+R0
+!i10b 1
+!s100 QRIfi=6nBVcW2@[<4??5a1
+R1
+Ia5ek1lFTMRGL_OhLoooR?1
+R2
+R3
+w1764252873
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/counter.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/counter.v
+!i122 59
+L0 1 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/counter.v|
+!i113 1
+R6
+R7
+n@r@n@d_counter
+vRND_datapath
+R0
+!i10b 1
+!s100 G_EaI14Q]UhbCbZW;5W0A0
+R1
+I[g0O?QE2zO8F`:amAIn<l0
+R2
+R3
+w1764253011
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/datapath.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/datapath.v
+!i122 60
+L0 1 56
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/datapath.v|
+!i113 1
+R6
+R7
+n@r@n@d_datapath
+vRND_shift_register
+R0
+!i10b 1
+!s100 ;Gda_1Z_M`1DK?zZ^Z>:23
+R1
+IT7<c42dbCGcO2Sbba8fIV0
+R2
+R3
+w1764252862
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/shift_register.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/shift_register.v
+!i122 61
+L0 1 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/shift_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/shift_register.v|
+!i113 1
+R6
+R7
+n@r@n@d_shift_register
+vRND_tb_top_module
+R0
+!i10b 1
+!s100 KD6JY02JG9NXIEDaZYL4N1
+R1
+IOfWe2QiZYNfZl=8PCKd<K2
+R2
+R3
+w1764252305
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/tb_top_module.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/tb_top_module.v
+!i122 62
+L0 3 43
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/tb_top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/tb_top_module.v|
+!i113 1
+R6
+R7
+n@r@n@d_tb_top_module
+vRND_top_module
+Z8 !s110 1764253016
+!i10b 1
+!s100 jWBf]3Vj?A;:Mb7WXUnSB2
+R1
+IIo]R2>=Z@[T@gQDTGlE;Y1
+R2
+R3
+w1764252967
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/top_module.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/top_module.v
+!i122 63
+L0 1 42
+R4
+r1
+!s85 0
+31
+Z9 !s108 1764253016.000000
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/top_module.v|
+!i113 1
+R6
+R7
+n@r@n@d_top_module
+vRND_xor
+R8
+!i10b 1
+!s100 Vgz7;17fzn]J[1BLWj1d:3
+R1
+I7k6RFPLn@D8TcXi>n:IiV2
+R2
+R3
+w1764252544
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/xor.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/xor.v
+!i122 64
+L0 1 9
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/xor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA1/Prj/xor.v|
+!i113 1
+R6
+R7
+n@r@n@d_xor
